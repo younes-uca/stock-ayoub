@@ -1,0 +1,26 @@
+{
+    "entrepriseSociete": {"id": "#number"},
+    "depot": {"id": "#number"},
+    "reference": "#string",
+    "description": "#string",
+
+    "inventaireItems": [
+      {
+      size of example.jsonFakeDataElements  0
+      },
+      {
+      size of example.jsonFakeDataElements  0
+      },
+      {
+      size of example.jsonFakeDataElements  0
+      }
+    ]
+}
+
+
+
+
+
+
+
+

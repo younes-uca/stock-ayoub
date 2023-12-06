@@ -1,0 +1,20 @@
+{
+    "produit": {"id": "1"},
+    "quantite": "10",
+    "prixUnitaireHt": "10",
+    "taxe": {"id": "1"},
+    "prixUnitaireTtc": "10",
+    "remise": "10",
+    "montantHt": "10",
+    "montantTtc": "10",
+    "commande": {"id": "1"}
+
+}
+
+
+
+
+
+
+
+

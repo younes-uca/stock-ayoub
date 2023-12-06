@@ -1,0 +1,14 @@
+{
+    "numeroChequeEffet": "#string",
+    "montant": "#number",
+    "beneficiaire": {"id": "#number"}
+
+}
+
+
+
+
+
+
+
+

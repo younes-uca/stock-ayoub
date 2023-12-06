@@ -1,0 +1,14 @@
+{
+    "typeInstrument": {"id": "#number"},
+    "chequeEffet": {"id": "#number"},
+    "montant": "#number"
+
+}
+
+
+
+
+
+
+
+

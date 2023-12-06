@@ -1,0 +1,14 @@
+{
+    "proprietaire": {"id": "#number"},
+    "banque": {"id": "#number"},
+    "compte": {"id": "#number"}
+
+}
+
+
+
+
+
+
+
+

@@ -1,0 +1,24 @@
+{
+    "barCode": "#string",
+    "depot": {"id": "#number"},
+    "produit": {"id": "#number"},
+    "quantite": "#number",
+    "quantiteAvoir": "#number",
+    "quantiteVendue": "#number",
+    "prixUnitaireHt": "#number",
+    "taxe": {"id": "#number"},
+    "prixUnitaireTtc": "#number",
+    "remise": "#number",
+    "montantHt": "#number",
+    "montantTtc": "#number",
+    "avoirVente": {"id": "#number"}
+
+}
+
+
+
+
+
+
+
+

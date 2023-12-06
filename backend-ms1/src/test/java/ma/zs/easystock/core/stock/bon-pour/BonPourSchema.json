@@ -1,0 +1,28 @@
+{
+    "numeroBonPour": "#string",
+    "client": {"id": "#number"},
+    "montantHt": "#number",
+    "montantTva": "#number",
+    "montantTtc": "#number",
+    "description": "#string",
+
+    "bonPourItems": [
+      {
+      size of example.jsonFakeDataElements  0
+      },
+      {
+      size of example.jsonFakeDataElements  0
+      },
+      {
+      size of example.jsonFakeDataElements  0
+      }
+    ]
+}
+
+
+
+
+
+
+
+

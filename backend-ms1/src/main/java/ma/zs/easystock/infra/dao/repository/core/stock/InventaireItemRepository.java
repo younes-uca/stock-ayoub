@@ -1,0 +1,21 @@
+package ma.zs.easystock.infra.dao.repository.core.stock;
+
+import ma.zs.easystock.zynerator.repository.AbstractRepository;
+import ma.zs.easystock.infra.bean.core.stock.InventaireItemEntity;
+import org.springframework.stereotype.Repository;
+
+import java.util.List;
+
+
+@Repository
+public interface InventaireItemRepository extends AbstractRepository<InventaireItemEntity,Long>  {
+
+    List<InventaireItemEntity> findByProduitId(Long id);
+    int deleteByProduitId(Long id);
+    long countByProduitBarCode(String barCode);
+    List<InventaireItemEntity> findByInventaireId(Long id);
+    int deleteByInventaireId(Long id);
+    long countByInventaireReference(String reference);
+
+
+}

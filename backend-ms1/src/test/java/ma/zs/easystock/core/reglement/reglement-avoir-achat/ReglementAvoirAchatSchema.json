@@ -1,0 +1,17 @@
+{
+    "reference": "#string",
+    "montant": "#number",
+    "achat": {"id": "#number"},
+    "modeReglement": {"id": "#number"},
+    "description": "#string",
+    "avoirAchat": {"id": "#number"}
+
+}
+
+
+
+
+
+
+
+

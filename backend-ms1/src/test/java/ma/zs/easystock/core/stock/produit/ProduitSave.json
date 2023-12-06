@@ -1,0 +1,32 @@
+{
+    "entrepriseSociete": {"id": "1"},
+    "reference": "reference-1",
+    "barCode": "barCode-1",
+    "categorie": {"id": "1"},
+    "designation": "designation-1",
+    "marque": {"id": "1"},
+    "uniteMesure": {"id": "1"},
+    "quantite": "10",
+    "prixAchatMoyen": "10",
+    "prixVente": "10",
+    "pathPhoto": "pathPhoto-1",
+    "seuilAlerte": "10",
+    "description": "description-1",
+
+    "stocks": [
+        {
+        },
+        {
+        },
+        {
+        }
+    ]
+}
+
+
+
+
+
+
+
+

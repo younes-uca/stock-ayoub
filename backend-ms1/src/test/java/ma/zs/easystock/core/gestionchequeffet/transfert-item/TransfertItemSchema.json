@@ -1,0 +1,15 @@
+{
+    "depot": {"id": "#number"},
+    "produit": {"id": "#number"},
+    "quantite": "#number",
+    "transfert": {"id": "#number"}
+
+}
+
+
+
+
+
+
+
+

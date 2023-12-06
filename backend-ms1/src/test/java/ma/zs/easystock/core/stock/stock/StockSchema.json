@@ -1,0 +1,14 @@
+{
+    "produit": {"id": "#number"},
+    "depot": {"id": "#number"},
+    "quantite": "#number"
+
+}
+
+
+
+
+
+
+
+

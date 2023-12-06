@@ -1,0 +1,16 @@
+{
+    "typeTransaction": {"id": "#number"},
+    "instrument": {"id": "#number"},
+    "compte": {"id": "#number"},
+    "pathCheque": "#string",
+    "description": "#string"
+
+}
+
+
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+{
+    "produit": {"id": "#number"},
+    "quantiteEstime": "#number",
+    "quantiteReelle": "#number",
+    "inventaire": {"id": "#number"}
+
+}
+
+
+
+
+
+
+
+

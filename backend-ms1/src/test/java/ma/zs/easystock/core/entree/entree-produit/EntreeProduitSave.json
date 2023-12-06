@@ -1,0 +1,23 @@
+{
+    "reference": "reference-1",
+    "fournisseur": {"id": "1"},
+    "depot": {"id": "1"},
+    "description": "description-1",
+
+    "entreeProduitItems": [
+        {
+        },
+        {
+        },
+        {
+        }
+    ]
+}
+
+
+
+
+
+
+
+

@@ -1,0 +1,17 @@
+{
+    "nom": "#string",
+    "telephone": "#string",
+    "ville": {"id": "#number"},
+    "adresse": "#string",
+    "creance": "#number",
+    "description": "#string"
+
+}
+
+
+
+
+
+
+
+

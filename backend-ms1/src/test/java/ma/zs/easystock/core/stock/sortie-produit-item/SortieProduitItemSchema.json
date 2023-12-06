@@ -1,0 +1,15 @@
+{
+    "produit": {"id": "#number"},
+    "quantite": "#number",
+    "description": "#string",
+    "sortieProduit": {"id": "#number"}
+
+}
+
+
+
+
+
+
+
+

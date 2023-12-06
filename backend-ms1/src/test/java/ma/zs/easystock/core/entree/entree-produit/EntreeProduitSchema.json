@@ -1,0 +1,26 @@
+{
+    "reference": "#string",
+    "fournisseur": {"id": "#number"},
+    "depot": {"id": "#number"},
+    "description": "#string",
+
+    "entreeProduitItems": [
+      {
+      size of example.jsonFakeDataElements  0
+      },
+      {
+      size of example.jsonFakeDataElements  0
+      },
+      {
+      size of example.jsonFakeDataElements  0
+      }
+    ]
+}
+
+
+
+
+
+
+
+

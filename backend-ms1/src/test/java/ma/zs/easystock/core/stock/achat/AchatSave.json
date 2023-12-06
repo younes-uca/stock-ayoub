@@ -1,0 +1,35 @@
+{
+    "entrepriseSociete": {"id": "1"},
+    "referenceFacture": "referenceFacture-1",
+    "fournisseur": {"id": "1"},
+    "etatAchat": {"id": "1"},
+    "montantHt": "10",
+    "montantTva": "10",
+    "montantTtc": "10",
+    "description": "description-1",
+
+    "achatItems": [
+        {
+        },
+        {
+        },
+        {
+        }
+    ],
+    "avoirs": [
+        {
+        },
+        {
+        },
+        {
+        }
+    ]
+}
+
+
+
+
+
+
+
+

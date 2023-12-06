@@ -1,0 +1,25 @@
+{
+    "numeroBonPour": "numeroBonPour-1",
+    "client": {"id": "1"},
+    "montantHt": "10",
+    "montantTva": "10",
+    "montantTtc": "10",
+    "description": "description-1",
+
+    "bonPourItems": [
+        {
+        },
+        {
+        },
+        {
+        }
+    ]
+}
+
+
+
+
+
+
+
+

@@ -1,0 +1,29 @@
+{
+    "barCode": "barCode-1",
+    "entrepriseSociete": {"id": "1"},
+    "codeAvoirAchat": "codeAvoirAchat-1",
+    "numeroFactureAvoirAchat": "numeroFactureAvoirAchat-1",
+    "fournisseur": {"id": "1"},
+    "etatAvoirAchat": {"id": "1"},
+    "montantHt": "10",
+    "montantTva": "10",
+    "montantTtc": "10",
+    "description": "description-1",
+
+    "avoirAchatItems": [
+        {
+        },
+        {
+        },
+        {
+        }
+    ]
+}
+
+
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+{
+    "numeroCompte": "#string",
+    "banque": {"id": "#number"},
+    "proprietaire": {"id": "#number"},
+    "solde": "#number"
+
+}
+
+
+
+
+
+
+
+

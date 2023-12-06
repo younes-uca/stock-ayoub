@@ -1,0 +1,44 @@
+{
+    "barCode": "#string",
+    "entrepriseSociete": {"id": "#number"},
+    "codeAvoirVente": "#string",
+    "numeroFactureAvoirVente": "#string",
+    "client": {"id": "#number"},
+    "etatAvoirVente": {"id": "#number"},
+    "montantHt": "#number",
+    "montantTva": "#number",
+    "montantTtc": "#number",
+    "description": "#string",
+    "achat": {"id": "#number"},
+
+    "avoirVenteItems": [
+      {
+      size of example.jsonFakeDataElements  0
+      },
+      {
+      size of example.jsonFakeDataElements  0
+      },
+      {
+      size of example.jsonFakeDataElements  0
+      }
+    ],
+    "avoirs": [
+      {
+      size of example.jsonFakeDataElements  0
+      },
+      {
+      size of example.jsonFakeDataElements  0
+      },
+      {
+      size of example.jsonFakeDataElements  0
+      }
+    ]
+}
+
+
+
+
+
+
+
+

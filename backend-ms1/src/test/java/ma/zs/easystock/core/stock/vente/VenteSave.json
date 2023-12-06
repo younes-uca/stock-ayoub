@@ -1,0 +1,37 @@
+{
+    "barCode": "barCode-1",
+    "entrepriseSociete": {"id": "1"},
+    "codeVente": "codeVente-1",
+    "numeroFacture": "numeroFacture-1",
+    "client": {"id": "1"},
+    "etatVente": {"id": "1"},
+    "montantHt": "10",
+    "montantTva": "10",
+    "montantTtc": "10",
+    "description": "description-1",
+
+    "venteItems": [
+        {
+        },
+        {
+        },
+        {
+        }
+    ],
+    "avoirs": [
+        {
+        },
+        {
+        },
+        {
+        }
+    ]
+}
+
+
+
+
+
+
+
+

@@ -1,0 +1,41 @@
+{
+    "entrepriseSociete": {"id": "#number"},
+    "referenceFacture": "#string",
+    "fournisseur": {"id": "#number"},
+    "etatAchat": {"id": "#number"},
+    "montantHt": "#number",
+    "montantTva": "#number",
+    "montantTtc": "#number",
+    "description": "#string",
+
+    "achatItems": [
+      {
+      size of example.jsonFakeDataElements  0
+      },
+      {
+      size of example.jsonFakeDataElements  0
+      },
+      {
+      size of example.jsonFakeDataElements  0
+      }
+    ],
+    "avoirs": [
+      {
+      size of example.jsonFakeDataElements  0
+      },
+      {
+      size of example.jsonFakeDataElements  0
+      },
+      {
+      size of example.jsonFakeDataElements  0
+      }
+    ]
+}
+
+
+
+
+
+
+
+

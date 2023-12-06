@@ -1,0 +1,30 @@
+{
+    "barCode": "#string",
+    "numeroCommande": "#string",
+    "client": {"id": "#number"},
+    "etatCommande": {"id": "#number"},
+    "montantHt": "#number",
+    "montantTva": "#number",
+    "montantTtc": "#number",
+    "description": "#string",
+
+    "commandeItems": [
+      {
+      size of example.jsonFakeDataElements  0
+      },
+      {
+      size of example.jsonFakeDataElements  0
+      },
+      {
+      size of example.jsonFakeDataElements  0
+      }
+    ]
+}
+
+
+
+
+
+
+
+

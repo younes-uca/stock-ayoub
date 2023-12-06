@@ -1,0 +1,35 @@
+{
+    "entrepriseSociete": {"id": "#number"},
+    "reference": "#string",
+    "barCode": "#string",
+    "categorie": {"id": "#number"},
+    "designation": "#string",
+    "marque": {"id": "#number"},
+    "uniteMesure": {"id": "#number"},
+    "quantite": "#number",
+    "prixAchatMoyen": "#number",
+    "prixVente": "#number",
+    "pathPhoto": "#string",
+    "seuilAlerte": "#number",
+    "description": "#string",
+
+    "stocks": [
+      {
+      size of example.jsonFakeDataElements  0
+      },
+      {
+      size of example.jsonFakeDataElements  0
+      },
+      {
+      size of example.jsonFakeDataElements  0
+      }
+    ]
+}
+
+
+
+
+
+
+
+

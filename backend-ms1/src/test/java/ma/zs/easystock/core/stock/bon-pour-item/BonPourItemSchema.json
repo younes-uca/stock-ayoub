@@ -1,0 +1,20 @@
+{
+    "produit": {"id": "#number"},
+    "quantite": "#number",
+    "prixUnitaireHt": "#number",
+    "taxe": {"id": "#number"},
+    "prixUnitaireTtc": "#number",
+    "remise": "#number",
+    "montantHt": "#number",
+    "montantTtc": "#number",
+    "bonPour": {"id": "#number"}
+
+}
+
+
+
+
+
+
+
+
